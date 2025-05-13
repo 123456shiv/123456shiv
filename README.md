@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @123456shiv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-123456shiv/123456shiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @123456shiv (Shiv Sharan Tripathi)
+- 👀 I’m interested in Data Analytics, Dashboard Design, Web Development, and Freelancing Projects
+- 🌱 I’m currently learning Power BI, Advanced Excel, and Machine Learning with Python
+- 💞️ I’m looking to collaborate on Data Visualization Projects, Portfolio Dashboards, and Web Apps using Flask or Streamlit
+- 📫 How to reach me: 
+  - 📧 Email: tripathishivsharan898@gmail.com  
+  - 💼 LinkedIn: [linkedin.com/in/123456shiv](https://www.linkedin.com/in/123456shiv)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once created a complete e-commerce sales dashboard from scratch just using Excel formulas and visuals!
